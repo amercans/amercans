@@ -1,6 +1,6 @@
 ### Hi, I'm Ahmet
 
-Digital Media Manager at **SM Creative**, İstanbul.
+Creative Technologist at **SM Creative**, İstanbul.
 
 I started out in SEO at agencies in Athens and Thessaloniki, moved into digital media and brand work, and now spend most of my time building things: websites, internal tools and the small automations that keep a creative team moving, usually with AI in the loop.
 
