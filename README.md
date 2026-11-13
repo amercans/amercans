@@ -22,6 +22,12 @@ I started out in SEO at agencies in Athens and Thessaloniki, moved into digital 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-1F2328?style=flat-square&logo=gnubash&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=white)
@@ -36,6 +42,12 @@ I started out in SEO at agencies in Athens and Thessaloniki, moved into digital 
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=flat-square&logo=semrush&logoColor=white)
 ![Google Business Profile](https://img.shields.io/badge/Business_Profile-34A853?style=flat-square&logo=google&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-241C15?style=flat-square&logo=mailchimp&logoColor=FFE01B)
+![Hotjar](https://img.shields.io/badge/Hotjar-FF3C00?style=flat-square&logo=hotjar&logoColor=white)
+![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=flat-square&logo=tiktok&logoColor=white)
+![Pinterest Ads](https://img.shields.io/badge/Pinterest_Ads-BD081C?style=flat-square&logo=pinterest&logoColor=white)
 
 **Elsewhere**
 
