@@ -1,18 +1,25 @@
-### Hi, I'm Ahmet
+### Ahmet Mercan
 
 Creative Technologist at **SM Creative**, İstanbul.
 
-I started out in SEO at agencies in Athens and Thessaloniki, moved into digital media and brand work, and now spend most of my time building things: websites, internal tools and the small automations that keep a creative team moving, usually with AI in the loop.
+**Design school taught me how things should look. Years abroad in SEO taught me how the web actually gets read. Now I build it.**
 
-**What I do**
+I trained in visual communication design in İstanbul, with an Erasmus year in Hungary, and started out in digital media at Project Medya. Then I went abroad: SEO and social media at AND Telecom in Thessaloniki, and senior SEO at DOPE Studio in Athens, named Indie Digital Agency of the Year. Back in İstanbul, I ran digital media at DİAS Teknoloji, covering ads, brand and content, and led its design and video work. Now I run the whole thing: art direction, motion, code, launch, with AI working as part of the studio.
 
-- **Web development:** corporate, institutional and portfolio sites, mostly multi-page and multilingual (up to eight languages), with a custom CMS where the team needs one. A lot of it is migration: WordPress and PHP sites rebuilt in Astro with their URLs and search traffic intact.
-- **Product design (UI/UX):** web portals and a consumer mobile app, from Figma screens to working Next.js prototypes handed over to in-house developers.
-- **Internal tools & automation:** an employee portal for requests, approvals and equipment tracking, an inventory tracker, and the automations around them. Built on Cloudflare Workers, D1, R2 and Access.
-- **AI content production:** product videos and imagery with Higgsfield, Kling and Seedance.
-- **SEO & analytics:** technical SEO, structured data, GA4 and Search Console.
-- **macOS utilities** when nothing off the shelf fits, like [nas-on-click](https://github.com/amercans/nas-on-click).
-- **Open source from side projects:** the [print generator](https://github.com/amercans/watercolor-family-print-generator) from [Planted Family](https://plantedfamily.com) and the [numerology library](https://github.com/amercans/pythagorean-numerology) from [True Numerology](https://truenumerology.com).
+**What I make**
+
+- **Websites that move.** Brand, corporate and cultural sites, and product launches. Multilingual, built around motion and scroll, and ready for search from day one.
+- **Products people use.** Web portals and a consumer mobile app, from Figma to working Next.js prototypes.
+- **Tools teams rely on.** Internal portals, inventory tracking and the automations that end repetitive work. Built on Cloudflare Workers, D1, R2 and Access.
+- **Films with AI.** Product videos made with Higgsfield, Kling and Seedance.
+- **Search and data.** It's where I started, so it shows up in everything I ship.
+
+**How I work**
+
+- Design direction comes first. Code waits until the direction is right.
+- Nothing ships unmeasured: analytics, structured data, and every old URL redirected.
+
+**Right now:** building a native Google Chat client for macOS, and the internal tools a creative studio runs on.
 
 **Stack**
 
@@ -49,6 +56,6 @@ I started out in SEO at agencies in Athens and Thessaloniki, moved into digital 
 ![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=flat-square&logo=tiktok&logoColor=white)
 ![Pinterest Ads](https://img.shields.io/badge/Pinterest_Ads-BD081C?style=flat-square&logo=pinterest&logoColor=white)
 
-**Elsewhere**
+Small things in the open: [nas-on-click](https://github.com/amercans/nas-on-click) · [watercolor-family-print-generator](https://github.com/amercans/watercolor-family-print-generator) · [pythagorean-numerology](https://github.com/amercans/pythagorean-numerology)
 
 [LinkedIn](https://www.linkedin.com/in/ahmet-mercan/)
