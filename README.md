@@ -26,7 +26,16 @@ I started out in SEO at agencies in Athens and Thessaloniki, moved into digital 
 ![Bash](https://img.shields.io/badge/Bash-1F2328?style=flat-square&logo=gnubash&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/GA4_&_Search_Console-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+
+**Marketing**
+
+![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=flat-square&logo=semrush&logoColor=white)
+![Google Business Profile](https://img.shields.io/badge/Business_Profile-34A853?style=flat-square&logo=google&logoColor=white)
 
 **Elsewhere**
 
