@@ -10,6 +10,7 @@ I started out in SEO at agencies in Athens and Thessaloniki, moved into digital 
 - Internal tools and dashboards backed by Supabase
 - Automations that remove the second time anyone does a task by hand
 - Small macOS utilities when nothing off the shelf fits, like [nas-on-click](https://github.com/amercans/nas-on-click)
+- A couple of side projects, with small parts open-sourced: the [print generator](https://github.com/amercans/watercolor-family-print-generator) from [Planted Family](https://plantedfamily.com) and the [numerology library](https://github.com/amercans/pythagorean-numerology) from [True Numerology](https://truenumerology.com)
 
 **Stack**
 
